@@ -1723,6 +1723,7 @@ markers:
       ', id: KR3j0112_krp_009-bkkkrnewl242}
   - {type: line-break, offset: 3821, content: '', id: KR3j0112_SBCK_009-13a02}
   - {type: punctuation, offset: 3829, content: (, id: KR3j0112_krp_009-bkkpn1}
+  - {type: voice, offset: 3829, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 3831, content: ), id: KR3j0112_krp_009-bkkpn2}
   - {type: substitution, offset: 3831, original: 予, replacement: 豫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20745}}
   - {type: 'kr:newline', offset: 3839, content: '
@@ -1817,6 +1818,7 @@ markers:
   - {type: line-break, offset: 4065, content: '', id: KR3j0112_SBCK_009-13b07}
   - {type: variant, offset: 4068, length: 1, content: 應, SBCK: 􅀿}
   - {type: punctuation, offset: 4071, content: (, id: KR3j0112_krp_009-bkkpn3}
+  - {type: voice, offset: 4071, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 4073, content: ), id: KR3j0112_krp_009-bkkpn4}
   - {type: substitution, offset: 4074, original: 䑓, replacement: 臺, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20173}}
   - {type: substitution, offset: 4076, original: 舘, replacement: 館, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17344}}
@@ -1834,6 +1836,7 @@ markers:
   - {type: variant, offset: 4105, length: 1, content: 潤, SBCK: 􅃳}
   - {type: variant, offset: 4111, length: 1, content: 國, SBCK: 􅀦}
   - {type: punctuation, offset: 4113, content: (, id: KR3j0112_krp_009-bkkpn5}
+  - {type: voice, offset: 4113, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 4115, content: ), id: KR3j0112_krp_009-bkkpn6}
   - {type: 'kr:newline', offset: 4119, content: '
 
@@ -2492,4 +2495,4 @@ markers:
 
       ', id: KR3j0112_krp_009-bkkkrnewl359}
   back: []
-hash: sha256:9dbf52cb682d50fc66792050fc7e8b6caf3286e97adc9dc9fd9dabe905f52679
+hash: sha256:623f783ded3dc1cbd2b41e06e0316b47104c2e5a5b2dfa8c6a01232ede2552e6

@@ -120,6 +120,7 @@ markers:
       ', id: KR3j0112_krp_004-bkkkrnewl19}
   - {type: line-break, offset: 267, content: '', id: KR3j0112_SBCK_004-1b09}
   - {type: punctuation, offset: 274, content: (, id: KR3j0112_krp_004-bkkpn1}
+  - {type: voice, offset: 274, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 276, content: /, id: KR3j0112_krp_004-bkkpn2}
   - {type: punctuation, offset: 277, content: ), id: KR3j0112_krp_004-bkkpn3}
   - {type: substitution, offset: 283, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
@@ -561,6 +562,7 @@ markers:
       ', id: KR3j0112_krp_004-bkkkrnewl88}
   - {type: line-break, offset: 1319, content: '', id: KR3j0112_SBCK_004-5a08}
   - {type: punctuation, offset: 1325, content: (, id: KR3j0112_krp_004-bkkpn4}
+  - {type: voice, offset: 1325, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1327, content: ), id: KR3j0112_krp_004-bkkpn5}
   - {type: variant, offset: 1335, length: 1, content: 盖, WYG: 葢}
   - {type: substitution, offset: 1335, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
@@ -628,6 +630,7 @@ markers:
   - {type: line-break, offset: 1463, content: '', id: KR3j0112_SBCK_004-5b07}
   - {type: punctuation, offset: 1464, content: (, id: KR3j0112_krp_004-bkkpn6}
   - {type: variant, offset: 1464, length: 8, content: 一公謂一行禅師也, WYG: ''}
+  - {type: voice, offset: 1464, length: 8, name: note, id: n3}
   - {type: substitution, offset: 1469, original: 禅, replacement: 禪, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17531}}
   - {type: punctuation, offset: 1472, content: ), id: KR3j0112_krp_004-bkkpn7}
   - {type: 'kr:newline', offset: 1472, content: '
@@ -718,6 +721,7 @@ markers:
   - {type: line-break, offset: 1634, content: '', id: KR3j0112_SBCK_004-6a08}
   - {type: variant, offset: 1642, length: 1, content: 霿, WYG: 霧}
   - {type: punctuation, offset: 1644, content: (, id: KR3j0112_krp_004-bkkpn8}
+  - {type: voice, offset: 1644, length: 3, name: note, id: n4}
   - {type: punctuation, offset: 1646, content: /, id: KR3j0112_krp_004-bkkpn9}
   - {type: punctuation, offset: 1647, content: ), id: KR3j0112_krp_004-bkkpn10}
   - {type: 'kr:newline', offset: 1652, content: '
@@ -2717,4 +2721,4 @@ markers:
 
       ', id: KR3j0112_krp_004-bkkkrnewl262}
   back: []
-hash: sha256:9505edb90d33ad44047c221ab0eefef569497cbadf0f59a18e4701104f0cf1fc
+hash: sha256:9db56b55a24e9b7d52fcde9d0fe7fca3ab9d73cbba87d09b2a6051792d4eca54

@@ -771,6 +771,7 @@ markers:
   - {type: line-break, offset: 1675, content: '', id: KR3j0112_SBCK_006-6a08}
   - {type: punctuation, offset: 1675, content: (, id: KR3j0112_krp_006-bkkpn1}
   - {type: variant, offset: 1675, length: 41, content: 曰黄廷堅抺字蘇軾刷字上復問曰卿書何如對曰臣書畵字觀蘇黄米蔡之書果如其說恐此記者有謬, WYG: ''}
+  - {type: voice, offset: 1675, length: 41, name: note, id: n1}
   - {type: substitution, offset: 1676, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20825}}
   - {type: substitution, offset: 1679, original: 抺, replacement: 抹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19786}}
   - {type: punctuation, offset: 1690, content: /, id: KR3j0112_krp_006-bkkpn2}
@@ -856,6 +857,7 @@ markers:
   - {type: variant, offset: 1862, length: 1, content: 知, WYG: 謂}
   - {type: variant, offset: 1864, length: 1, content: 為, WYG: ''}
   - {type: punctuation, offset: 1869, content: (, id: KR3j0112_krp_006-bkkpn6}
+  - {type: voice, offset: 1869, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1871, content: ), id: KR3j0112_krp_006-bkkpn7}
   - {type: substitution, offset: 1872, original: 迨, replacement: 逮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19368}}
   - {type: 'kr:newline', offset: 1876, content: '
@@ -3113,4 +3115,4 @@ markers:
 
       ', id: KR3j0112_krp_006-bkkkrnewl451}
   back: []
-hash: sha256:f396d3e0f0b1d4f446021a9e65ed918e4379217441b7d6b16fde3d50998b446d
+hash: sha256:4ce40e89873659a379b17b8b651ad290a57d6a7fae443ccf232ad484af3edb19

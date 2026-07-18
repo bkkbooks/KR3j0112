@@ -1134,6 +1134,7 @@ markers:
   - {type: variant, offset: 2590, length: 1, content: 满, WYG: 滿}
   - {type: substitution, offset: 2590, original: 满, replacement: 滿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17640}}
   - {type: punctuation, offset: 2597, content: (, id: KR3j0112_krp_003-bkkpn1}
+  - {type: voice, offset: 2597, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 2598, content: ), id: KR3j0112_krp_003-bkkpn2}
   - {type: 'kr:newline', offset: 2598, content: '
 
@@ -1214,6 +1215,7 @@ markers:
   - {type: line-break, offset: 2751, content: '', id: KR3j0112_SBCK_003-9b05}
   - {type: punctuation, offset: 2757, content: (, id: KR3j0112_krp_003-bkkpn5}
   - {type: variant, offset: 2757, length: 23, content: 大明弘治十七年蘇州衞印熱如火其年一衞官皆去聀啇, WYG: 商}
+  - {type: voice, offset: 2757, length: 22, name: note, id: n2}
   - {type: substitution, offset: 2766, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19982}}
   - {type: variant, offset: 2768, length: 1, content: 熱, SBCK: 􅀬}
   - {type: punctuation, offset: 2769, content: /, id: KR3j0112_krp_003-bkkpn6}
@@ -1470,6 +1472,7 @@ markers:
       ', id: KR3j0112_krp_003-bkkkrnewl211}
   - {type: line-break, offset: 3320, content: '', id: KR3j0112_SBCK_003-11b01}
   - {type: punctuation, offset: 3337, content: (, id: KR3j0112_krp_003-bkkpn8}
+  - {type: voice, offset: 3337, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 3338, content: /, id: KR3j0112_krp_003-bkkpn9}
   - {type: punctuation, offset: 3339, content: ), id: KR3j0112_krp_003-bkkpn10}
   - {type: 'kr:newline', offset: 3339, content: '
@@ -2613,4 +2616,4 @@ markers:
 
       ', id: KR3j0112_krp_003-bkkkrnewl379}
   back: []
-hash: sha256:35b9120d83798659d1b4cad90659ebda9c8736f22cb2748d3d18f2e1aa1465d1
+hash: sha256:a7297a1f4e16ee8e5339e73fdbcbc4fb640be8f223eb08d1549228dee9e7a19f
